@@ -4,5 +4,17 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/FR_Scenes/FR_BeltTest_Training.unity
+    guid: b6b97f95fa43cac4d8ff6f9aa8a7bc90
+  - enabled: 1
+    path: Assets/FR_Scenes/FR_BeltTest_S1.unity
+    guid: 416ac3074ff5d424baa8d7f7b9ee19cc
+  - enabled: 1
+    path: Assets/FR_Scenes/FR_BeltTest_S2.unity
+    guid: e8f7074106c629e4d8e0567e9ff7bc0b
+  - enabled: 1
+    path: Assets/FR_Scenes/FR_BeltTest_S3.unity
+    guid: 52374e3528f3e4541843505620403b73
   m_configObjects: {}

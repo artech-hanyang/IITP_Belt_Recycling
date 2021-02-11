@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/1_Scenes/JIR_Scenes/BeltTest_Training_2021.unity
+- path: Assets/FR_Scenes/FR_BeltTest_S3.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
