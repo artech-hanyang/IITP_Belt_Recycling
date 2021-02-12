@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/FR_Scenes/FR_BeltTest_S3.unity
+- path: Assets/KR_Scenes/KR_BeltTest_S3.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
