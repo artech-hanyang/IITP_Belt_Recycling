@@ -1,0 +1,2 @@
+FR_BeltTest.apk filter=lfs diff=lfs merge=lfs -text
+KR_BeltTest.apk filter=lfs diff=lfs merge=lfs -text
