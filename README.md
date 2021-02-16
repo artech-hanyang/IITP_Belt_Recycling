@@ -13,6 +13,9 @@
 
 ## Description
 
+
+<img width="235" alt="2" src="https://user-images.githubusercontent.com/58596672/95021250-d86a8a80-06aa-11eb-9dee-54ab0ea71099.PNG">
+
 1) Game level status display and count display panel
   - A sign for participants to visually notify their current level status and the waiting time of 5 seconds after pressing the game button.
 
