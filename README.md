@@ -34,3 +34,22 @@
 4) Classification of items
   - Put the items in the trash bin that match the type of item.
   - The label of the trash bin shine to inform the status that you can throw it in the trash bin  you caught.
+
+## Raw Data Collection
+
+### Head
+  - Position(x,y,z)
+  - Rotation(x,y,z,w)
+
+### Hand
+  - Position(x,y,z)
+  - Rotation(x,y,z,w)
+
+## User Data Collection
+
+### Hand
+  - Hesitation : the number of hesitating times detected in the trash bin area after article is caught
+  - Action Time : cumulative time until you hold and drop things
+  - Comission Error : Number of errors if you missed or misresponded to an item
+  - Collect : Number of collect if you responded to right item.
+  - Color-interference : The type of item type is different, but the subject responded to the same color.
